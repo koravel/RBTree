@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+e:\univer\программирование\курсач2.2\curse2.2\curse2.2view\MyForm.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\univer\программирование\курсач2.2\curse2.2\curse2.2view\MyForm.h(167): warning C4101: 'rightChildRnage': unreferenced local variable
+e:\univer\программирование\курсач2.2\curse2.2\curse2.2view\rbtree.h(233): warning C4715: 'RBTree::insertElement': not all control paths return a value
+  Curse2.2View.vcxproj -> E:\UNIVER\Программирование\КУРСАЧ2.2\Curse2.2\Debug\Curse2.2View.exe
